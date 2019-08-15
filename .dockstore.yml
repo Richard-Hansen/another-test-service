@@ -9,4 +9,3 @@ service:
   files:
      - docker-compose.yml 
      - README.md
-asdf adfs adf
