@@ -1,6 +1,6 @@
 version: 1.2
 service:
-  subclass: docker-compose
+  type: docker-compose
   name: A cool service
   author: Andrew Duncan
   description: |
